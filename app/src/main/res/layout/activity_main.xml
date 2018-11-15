@@ -54,7 +54,6 @@
         android:id="@+id/textViewThreadValue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/textViewThreadValue"
         app:layout_constraintStart_toStartOf="@+id/guideline4"
         app:layout_constraintTop_toTopOf="@+id/guideline2" />
 </android.support.constraint.ConstraintLayout>
